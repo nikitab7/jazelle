@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@rauschma/stringio": "1.4.0",
-    "semver": "^6.2.0"
+    "semver": "^6.3.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
