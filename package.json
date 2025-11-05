@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@rauschma/stringio": "1.4.0",
-    "inquirer": "8.2.6",
+    "inquirer": "8.2.7",
     "semver": "^6.3.1"
   },
   "devDependencies": {
